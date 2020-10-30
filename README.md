@@ -1,6 +1,7 @@
 ## NF-Client
 NF Client 의 모드 설정을 도와주는 GUI를 띄워주는 모드입니다
-[![npm downloads](https://img.shields.io/npm/dm/github-release-notes.svg)](https://github.com/najoan125/NF-Client/releases)
+<br>
+[![npm downloads](https://img.shields.io/badge/release-v1.1-brightgreen)](https://github.com/najoan125/NF-Client/releases)
 
 
 ## 주의사항
