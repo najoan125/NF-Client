@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "NF Client",
+    "name": "NF Client",
+    "description": "NF Client 모드의 설정을 도와주는 GUI를 띄워주는 모드입니다.",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "url": "https://www.hift.kro.kr/download",
+    "updateUrl": "",
+    "authorList": [
+	  "나죠안"
+    ],
+    "credits": "나죠안에 의해 만들어졌습니다.",
+    "logoFile": "",
+    "screenshots": []
+      
+  }
+]
